@@ -1,0 +1,14 @@
+CRIANDO PROJETO DO ZERO
+. yarn create react-app first
+
+ESLint, Prettier & EditorConfig
+. Clique com o botão direito do mouse e generate .editor config
+. yarn add eslint -D
+. yarn eslint --init
+. Remover arquivo package-lock.json
+. rodar 'yarn' na raiz do projeto pra atualizar as dependencias
+. yarn add prettier eslint-config-prettier eslint-plugin-prettier babel-eslint -D
+. Criar arquivo .prettierrc
+
+CONFIGURANDO ROTAS
+. yarn add react-router-dom
