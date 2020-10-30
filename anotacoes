@@ -15,3 +15,6 @@ CONFIGURANDO ROTAS
 
 ESTILOS GLOBAIS
 . yarn add styled-components
+
+CRIANDO HEADER
+. yarn add react-icons
