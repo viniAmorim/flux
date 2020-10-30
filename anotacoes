@@ -12,3 +12,6 @@ ESLint, Prettier & EditorConfig
 
 CONFIGURANDO ROTAS
 . yarn add react-router-dom
+
+ESTILOS GLOBAIS
+. yarn add styled-components
