@@ -18,3 +18,4 @@ ESTILOS GLOBAIS
 
 CRIANDO HEADER
 . yarn add react-icons
+. yarn add polished
