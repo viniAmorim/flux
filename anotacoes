@@ -19,3 +19,9 @@ ESTILOS GLOBAIS
 CRIANDO HEADER
 . yarn add react-icons
 . yarn add polished
+
+
+CONFIGURANDO API
+. yarn global add json-server
+. yarn add axios
+. json-server server.json -p 3333
