@@ -28,3 +28,6 @@ CONFIGURANDO API
 
 CONFIGURANDO REDUX
 . yarn add redux react-redux
+
+REACTOTRON E REDUX
+. yarn add reactotron-react-js reactotron-redux
