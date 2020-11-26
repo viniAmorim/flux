@@ -31,3 +31,5 @@ CONFIGURANDO REDUX
 
 REACTOTRON E REDUX
 . yarn add reactotron-react-js reactotron-redux
+
+Obs: Proptypes: npm install --save prop-types

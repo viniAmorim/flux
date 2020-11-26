@@ -20,7 +20,8 @@ export const Cart = styled(Link)`
 
   div {
     text-align: right;
-    color: #fff;
+    margin-right: 10px;
+    /* color: #fff; */
 
     strong {
       display: block;

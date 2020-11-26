@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import { MdAddShoppingCart } from 'react-icons/md';
+import PropTypes from 'prop-types';
 import api from '../../services/api';
 import { formatPrice } from '../../util/format';
 
@@ -60,5 +61,13 @@ class Home extends Component {
     );
   }
 }
+
+Home.defaultProps = {
+  dispatch: '',
+};
+
+Home.propTypes = {
+  dispatch: PropTypes.string,
+};
 
 export default connect()(Home);
