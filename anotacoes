@@ -39,3 +39,6 @@ PRODUTO DUPLICADO
 
 CONFIGURANDO REDUX SAGA
 . yarn add redux-saga
+
+REACTOTRON + SAGA
+. yarn add reactotron-redux-saga
