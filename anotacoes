@@ -36,3 +36,6 @@ Obs: Proptypes: npm install --save prop-types
 
 PRODUTO DUPLICADO
 . yarn add immer
+
+CONFIGURANDO REDUX SAGA
+. yarn add redux-saga
