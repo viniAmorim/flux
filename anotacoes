@@ -45,3 +45,6 @@ REACTOTRON + SAGA
 
 REACT TOSTIFY
 . yarn add react-toastify
+
+NAVEGANDO NO SAGA
+. yarn add history
